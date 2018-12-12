@@ -1,1 +1,1 @@
-Project about a virtual app on code snippet
+Project on laravel, a virtual app on code snippet
